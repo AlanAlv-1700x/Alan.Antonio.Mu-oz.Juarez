@@ -1,0 +1,1 @@
+En esta carpeta se ubican las practicas con el formato solicitado
