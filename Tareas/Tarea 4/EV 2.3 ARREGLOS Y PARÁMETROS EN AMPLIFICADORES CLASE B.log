@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.17)  8 OCT 2019 13:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.17)  8 OCT 2019 15:25
 entering extended mode
-**"./EV 2.2 ARREGLOS Y PARÁMETROS EN AMPLIFICADORES CLASE A.tex"
-("EV 2.2 ARREGLOS Y PARÁMETROS EN AMPLIFICADORES CLASE A.tex"
+**"./EV 2.3 ARREGLOS Y PARÁMETROS EN AMPLIFICADORES CLASE B.tex"
+("EV 2.3 ARREGLOS Y PARÁMETROS EN AMPLIFICADORES CLASE B.tex"
 LaTeX2e <2018-12-01>
 
 ("C:\Users\Alan Juárez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\articl
@@ -663,11 +663,11 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@dimlist=\toks23
 
 ("C:\Users\Alan Juárez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\ge
-ometry.cfg")) ("EV 2.2 ARREGLOS Y PARÁMETROS EN AMPLIFICADORES CLASE A.aux"
+ometry.cfg")) ("EV 2.3 ARREGLOS Y PARÁMETROS EN AMPLIFICADORES CLASE B.aux"
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 )
-\openout1 = `"EV 2.2 ARREGLOS Y PARÁMETROS EN AMPLIFICADORES CLASE A.aux"'.
+\openout1 = `"EV 2.3 ARREGLOS Y PARÁMETROS EN AMPLIFICADORES CLASE B.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/jkp/m/it on input line 22.
 LaTeX Font Info:    Try loading font information for OML+jkp on input line 22.
@@ -867,80 +867,56 @@ File: ts1jkp.fd 2007/08/30 Fontinst v1.928 font definitions for TS1/jkp.
 
 {C:/Users/Alan Juárez/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./im
 agenes/UPZMG.png>]
-<imagenes/amplificadorA.JPG, id=9, 347.04657pt x 261.97874pt>
-File: imagenes/amplificadorA.JPG Graphic file (type jpg)
-<use imagenes/amplificadorA.JPG>
-Package pdftex.def Info: imagenes/amplificadorA.JPG  used on input line 31.
-(pdftex.def)             Requested size: 347.04572pt x 261.9781pt.
- [2 <./imagenes/amplificadorA.JPG>]
-Underfull \hbox (badness 10000) in paragraph at lines 46--48
-\OT1/jkp/m/n/12 li-da.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 46--48
-
- []
-
-<imagenes/1ETAPA.JPG, id=14, 416.30531pt x 308.65312pt>
+<imagenes/amplificadorB.JPG, id=9, 456.70625pt x 351.3125pt>
+File: imagenes/amplificadorB.JPG Graphic file (type jpg)
+<use imagenes/amplificadorB.JPG>
+Package pdftex.def Info: imagenes/amplificadorB.JPG  used on input line 34.
+(pdftex.def)             Requested size: 365.36548pt x 281.05037pt.
+ [2 <./imagenes/amplificadorB.JPG>]
+<imagenes/1ETAPA.JPG, id=14, 602.25pt x 522.95375pt>
 File: imagenes/1ETAPA.JPG Graphic file (type jpg)
 <use imagenes/1ETAPA.JPG>
-Package pdftex.def Info: imagenes/1ETAPA.JPG  used on input line 51.
-(pdftex.def)             Requested size: 333.0447pt x 246.92282pt.
-[3 <./imagenes/1ETAPA.JPG>]
-<imagenes/transformador.JPG, id=18, 398.99063pt x 316.93407pt>
+Package pdftex.def Info: imagenes/1ETAPA.JPG  used on input line 57.
+(pdftex.def)             Requested size: 301.12425pt x 261.47623pt.
+ [3 <./imagenes/1ETAPA.JPG>]
+<imagenes/transformador.JPG, id=18, 481.8pt x 508.90125pt>
 File: imagenes/transformador.JPG Graphic file (type jpg)
 <use imagenes/transformador.JPG>
-Package pdftex.def Info: imagenes/transformador.JPG  used on input line 64.
-(pdftex.def)             Requested size: 478.78636pt x 380.31897pt.
+Package pdftex.def Info: imagenes/transformador.JPG  used on input line 79.
+(pdftex.def)             Requested size: 289.08221pt x 305.34311pt.
  [4 <./imagenes/transformador.JPG>]
-<imagenes/calculos.JPG, id=22, 484.05844pt x 264.99pt>
-File: imagenes/calculos.JPG Graphic file (type jpg)
-<use imagenes/calculos.JPG>
-Package pdftex.def Info: imagenes/calculos.JPG  used on input line 68.
-(pdftex.def)             Requested size: 387.24727pt x 211.99228pt.
-<imagenes/calculos1.JPG, id=23, 516.42938pt x 354.57469pt>
-File: imagenes/calculos1.JPG Graphic file (type jpg)
-<use imagenes/calculos1.JPG>
-Package pdftex.def Info: imagenes/calculos1.JPG  used on input line 69.
-(pdftex.def)             Requested size: 413.14406pt x 283.66013pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 71--72
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--74
-
- []
-
-[5 <./imagenes/calculos.JPG> <./imagenes/calculos1.JPG>]
-<imagenes/parametros.JPG, id=27, 478.78876pt x 450.9347pt>
+<imagenes/parametros.JPG, id=22, 551.05875pt x 399.4925pt>
 File: imagenes/parametros.JPG Graphic file (type jpg)
 <use imagenes/parametros.JPG>
-Package pdftex.def Info: imagenes/parametros.JPG  used on input line 78.
-(pdftex.def)             Requested size: 478.78758pt x 450.9336pt.
- [6 <./imagenes/parametros.JPG>] [7] ("EV 2.2 ARREGLOS Y PARÁMETROS EN AMPLIFI
-CADORES CLASE A.aux"
+Package pdftex.def Info: imagenes/parametros.JPG  used on input line 90.
+(pdftex.def)             Requested size: 330.63779pt x 239.69734pt.
+ [5 <./imagenes/parametros.JPG>]
+<imagenes/AB.JPG, id=26, 428.60126pt x 392.46625pt>
+File: imagenes/AB.JPG Graphic file (type jpg)
+<use imagenes/AB.JPG>
+Package pdftex.def Info: imagenes/AB.JPG  used on input line 101.
+(pdftex.def)             Requested size: 257.16273pt x 235.48155pt.
+ [6 <./imagenes/AB.JPG>] [7]
+("EV 2.3 ARREGLOS Y PARÁMETROS EN AMPLIFICADORES CLASE B.aux"
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
- 5142 strings out of 492895
- 72633 string characters out of 3120464
- 140747 words of memory out of 3000000
- 8937 multiletter control sequences out of 15000+200000
- 29651 words of font info for 68 fonts, out of 3000000 for 9000
+ 5137 strings out of 492895
+ 72485 string characters out of 3120464
+ 141747 words of memory out of 3000000
+ 8934 multiletter control sequences out of 15000+200000
+ 28605 words of font info for 67 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,7n,31p,579b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,7n,31p,722b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Alan Juárez/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/bas
 e/8r.enc}<C:/Users/Alan Juárez/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
 ublic/kpfonts/jkpbn8a.pfb><C:/Users/Alan Juárez/AppData/Local/Programs/MiKTeX 
 2.9/fonts/type1/public/kpfonts/jkpmn8a.pfb>
-Output written on "EV 2.2 ARREGLOS Y PARÁMETROS EN AMPLIFICADORES CLASE A.pdf"
- (7 pages, 493859 bytes).
+Output written on "EV 2.3 ARREGLOS Y PARÁMETROS EN AMPLIFICADORES CLASE B.pdf"
+ (7 pages, 558973 bytes).
 PDF statistics:
- 44 PDF objects out of 1000 (max. 8388607)
+ 43 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
